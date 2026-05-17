@@ -28,8 +28,3 @@ evaluations from the HPO-B NeurIPS 2021 benchmark.
 ## Architecture
 HDFS → Hive → PySpark → Bayesian Optimizer → Meta-Learner → MLflow
 
-## Resume Line
-"Built distributed HPO analytics system on HDFS + Hive ingesting
-3.27M real evaluations (HPO-B NeurIPS 2021), Bayesian meta-learning
-optimizer achieving 2.4x fewer trials to 90% accuracy vs random
-search, 99% recommendation hit rate across 97 datasets."
