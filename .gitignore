@@ -1,0 +1,11 @@
+data/*.zip
+data/hpob_real.zip
+data/main.zip
+data/hpob_real_train.csv
+data/hpo_runs.csv
+data/hpob_runs.csv
+data/HPO-B-main/
+data/hpob-data/
+__pycache__/
+*.pyc
+.conda/
