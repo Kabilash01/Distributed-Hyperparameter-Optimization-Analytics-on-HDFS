@@ -28,3 +28,11 @@ evaluations from the HPO-B NeurIPS 2021 benchmark.
 ## Architecture
 HDFS → Hive → PySpark → Bayesian Optimizer → Meta-Learner → MLflow
 
+## Dataset
+https://github.com/sebastianpinedaar/hpo-data
+
+## run this project 
+ScriptWhat it starts
+~/start_project.sh -> Hadoop + HiveServer2 + MLflow 
+~/start_hive_fast.sh -> HiveServer2 only
+~/stop_project.shS -> stops everything
